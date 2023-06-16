@@ -1,0 +1,18 @@
+{
+  "name": "verteks",
+  "version": "1.0.0",
+  "description": "chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start verteks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "verteks"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "aarnav",
+  "license": "ISC"
+}
